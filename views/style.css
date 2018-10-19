@@ -135,6 +135,8 @@ a{
   height:30px;
   font-family: Arial;
   padding-top: 10px;
+  position: fixed;
+  left:0;
   bottom: 0;
   width:100%;
   text-shadow: 2px 2px 4px #000000;
